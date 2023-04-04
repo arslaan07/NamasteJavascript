@@ -13,7 +13,7 @@
 // console.log(c);
 
 // ----------------------------------------------------------------------
-
+        // Shadowing
 //     var a = 100;
 // {
 //     var a = 10;  //this a shadows the global a outside block
